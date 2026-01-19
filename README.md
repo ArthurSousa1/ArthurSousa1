@@ -1,12 +1,12 @@
 # 👋 Oi, eu sou a Arthur!
 
-🎯 Desenvolvedora mobile com foco em iOS e Flutter, apaixonada por criar aplicativos de produtividade e organização pessoal.
+🎯 Sou desenvolvedor mobile, dedicado e resiliente, com facilidade para aprender e me adaptar a novas tecnologias. Sou autodidata, motivado e tenho experiência em analisar e desenvolver soluções mobile focadas em desempenho, usabilidade e qualidade. Me comunico bem e gosto de trabalhar em equipe, colaborando com stakeholders, times técnicos e clientes. Meu objetivo é crescer na carreira dominando uma ampla variedade de tecnologias e me tornando um profissional cada vez mais completo na área de desenvolvimento.
 
 ---
 
 ## 💡 Sobre mim
 
-- ⚡ Extrovertida, comunicativa e proativa
+- ⚡ Comunicativo e proativo
 - 📚 Autodidata e aprendo rápido
 - 🤝 Gosto de trabalhar em equipe
 - 🚀 Sempre criando projetos para meu portfólio
@@ -25,13 +25,13 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurSousa1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSousa1&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: link_aqui
-- 📧 Email: seu_email
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-s-67a857223/) 
+- 📧 Email: sousaarthur840@gmail.com
