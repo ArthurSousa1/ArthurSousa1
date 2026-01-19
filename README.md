@@ -2,7 +2,6 @@
 
 🎯 Sou desenvolvedor mobile, dedicado e resiliente, com facilidade para aprender e me adaptar a novas tecnologias. Sou autodidata, motivado e tenho experiência em analisar e desenvolver soluções mobile focadas em desempenho, usabilidade e qualidade. Me comunico bem e gosto de trabalhar em equipe, colaborando com stakeholders, times técnicos e clientes. Meu objetivo é crescer na carreira dominando uma ampla variedade de tecnologias e me tornando um profissional cada vez mais completo na área de desenvolvimento.
 
----
 
 ## 💡 Sobre mim
 
@@ -11,7 +10,6 @@
 - 🤝 Gosto de trabalhar em equipe
 - 🚀 Sempre criando projetos para meu portfólio
 
----
 
 ## 🛠 Tecnologias
 
@@ -21,7 +19,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 
----
 
 ## 📊 Estatísticas
 
@@ -29,7 +26,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSousa1&layout=compact&theme=radical)
 
----
 
 ## 📫 Contato
 
